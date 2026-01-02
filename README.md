@@ -61,11 +61,11 @@ Classify uses a **Read-Through Caching Strategy** to minimize data usage.
 
 1.  **Clone the Repo**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/Classify.git](https://github.com/YOUR_USERNAME/Classify.git)
+    git clone [https://github.com/Ameetesh-A/ClassiFy.git](https://github.com/Ameetesh-A/ClassiFy.git)
     ```
 2.  **Configure API Keys**
     * Create an app on the [Spotify Developer Dashboard](https://developer.spotify.com/).
-    * Add your `CLIENT_ID` to `core/Config.java` (or `local.properties` if configured).
+    * Add your `CLIENT_ID` to `core/Config.java`.
     * Add your `google-services.json` for Firebase integration.
 3.  **Build**
     * Sync Gradle and run on an Android device (Spotify App must be installed).
