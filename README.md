@@ -49,7 +49,7 @@ Classify uses a **Read-Through Caching Strategy** to minimize data usage.
 
 ## 📸 Screenshots
 
-| TuneMatch (Swipe Mode) | Feature Analysis | Playlist Manager |
+| TuneMatch (Discovery) | Smart Recommendations | Instant Export |
 | :---: | :---: | :---: |
 | *(Add Screenshot)* | *(Add Screenshot)* | *(Add Screenshot)* |
 
