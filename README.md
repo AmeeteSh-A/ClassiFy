@@ -51,7 +51,7 @@ Classify uses a **Read-Through Caching Strategy** to minimize data usage.
 
 | TuneMatch (Discovery) | Smart Recommendations | Instant Export |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/c2870f0a-930b-4963-98e2-f920687c5bb1" width="250"> | *(Add Screenshot)* | *(Add Screenshot)* |
+| <img src="https://github.com/user-attachments/assets/c2870f0a-930b-4963-98e2-f920687c5bb1" width="250"> | <img src="https://github.com/user-attachments/assets/7320723c-163b-47e7-8b1e-258d0761b117" width="250"> | <img src="https://github.com/user-attachments/assets/d961b0b9-195e-4f43-8097-0b95ec0d77a4" width="250"> |
 
 ---
 
